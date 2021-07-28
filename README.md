@@ -1,1 +1,2 @@
-# Zombie-crush-2-template
+# zombie-crush-2
+project solution for c30
